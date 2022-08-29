@@ -4,7 +4,7 @@ A Pizza Site built with React.
 
 ## Demo
 
-[Link]()
+[Link](https://sprightly-lily-ef2596.netlify.app/)
 
 ## Getting Started
 
